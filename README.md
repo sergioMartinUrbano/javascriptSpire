@@ -37,8 +37,9 @@ Si deseas contribuir, sigue estos pasos:
 4. Sube tu rama (`git push origin nueva-rama`).
 5. Abre un Pull Request.
 
-##Resultado
+## Resultado
 
-[Enlace 1]([https://www.ejemplo.com](https://youtube.com/shorts/wg8p_mq6ibE?feature=shared))
+[Enlace 1](https://youtube.com/shorts/wg8p_mq6ibE?feature=shared)
+
 [Enlace 2](https://javascriptspire.netlify.app)
 
